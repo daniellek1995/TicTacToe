@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--create the button at the beginning !-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="80dp"></corners>
+            <solid android:color="#2a52be"></solid>
+            <stroke android:color="@color/black" android:width="2dp"></stroke>
+        </shape>
+    </item>
+</selector>
