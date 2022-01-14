@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe816e14-2251-4042-95f7-af2a118275aa" name="Default Changelist" comment="" />
+    <list default="true" id="fe816e14-2251-4042-95f7-af2a118275aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/startgif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticTacToeRecord.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/ticTacToeRecord.gif" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +27,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21HdMMGtZGXHwL3CJMYZS7O5V1X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +47,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Danielle Korenfeld\AndroidStudioProjects\tic\TicTacToe\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Danielle Korenfeld\Desktop\TicTacToe\app\src\main\res\values-night" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
